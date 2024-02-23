@@ -1,0 +1,8 @@
+févr. 14, 2024 4:58:57 PM S5.UseLogger doSomeThingAndLog
+GRAVE: Info Log
+févr. 14, 2024 4:58:57 PM S5.UseLogger doSomeThingAndLog
+GRAVE: Info Log
+févr. 14, 2024 4:58:57 PM S5.UseLogger doSomeThingAndLog
+AVERTISSEMENT: Info Log
+févr. 14, 2024 4:58:57 PM S5.UseLogger doSomeThingAndLog
+INFOS: Info Log
